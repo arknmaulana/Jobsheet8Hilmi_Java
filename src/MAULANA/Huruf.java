@@ -5,6 +5,9 @@ package MAULANA;
  * @author HP ZBOOK 15
  */
 public class Huruf {
+    
+    //I WRITE THIS SO I CAN GET MY BELOVED HACKTOBER FEST 2018 T SHIRT
+    
     void A() {
         for (int sp = 0; sp < 2; sp++) {
             System.out.println("");
